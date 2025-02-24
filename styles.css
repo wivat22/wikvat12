@@ -1,0 +1,20 @@
+.body{
+    display: flex;
+}
+
+.banner{
+    width: 100%;
+}
+
+.parent{
+    display: grid;
+    grid-template-columns: 25% 75%;
+}
+
+.footer{
+    width: 100%;
+    background-color: bisque;
+    text-align: center;
+    margin: 0%;
+    padding: 20px;
+}
